@@ -1,5 +1,7 @@
 # Grafana Setup using Docker Compose
 
+Headless branch is useful when you need to connect multiple datasources to single Grafana Dashboard
+
 The Repo contains a basic setup configuration for Grafana using Docker compose
 
 The compose file contains 3 services
